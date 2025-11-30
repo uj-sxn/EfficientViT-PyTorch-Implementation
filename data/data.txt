@@ -1,0 +1,5 @@
+CIFAR 100 dataset: https://www.cs.toronto.edu/~kriz/cifar.html
+
+Also import using python
+
+from torchvision.datasets import CIFAR100
